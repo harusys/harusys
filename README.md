@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=harusys&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=harusys&show_icons=true&count_private=true&theme=tokyonight" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harusys&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
 </p>
 
