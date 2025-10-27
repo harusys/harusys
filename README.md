@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F739&random=false&width=435&lines=Hello+world!;Welcome+to+harusys+profile)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=harusys&color=blue&style=flat)](https://github.com/harusys/harusys/)
-
 #### 👋 Hi there
 
 I'm Haru, a Backend Engineer from Japan 🇯🇵
