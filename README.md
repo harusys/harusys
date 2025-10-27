@@ -8,7 +8,7 @@ I'm Haru, a Backend Engineer from Japan 🇯🇵
 
 - 💻 Working on Backend Engineer / Data Scientist / DevOps Engineer.
 - 🔭 Currently working as a Backend Engineer at [ZOZO](https://corp.zozo.com/en/).
-- 🌱 Currently learning Go, Flutter.
+- 💬 Ask me about Go, Kubernetes, CI/CD.
 - ❤️ Love for coding and learning new technologies.
 
 #### 🛠️ Languages and Tools
@@ -36,5 +36,3 @@ I'm Haru, a Backend Engineer from Japan 🇯🇵
   <img alt="GitHub stats" height="125px" src="https://github-readme-stats.vercel.app/api?username=harusys&show_icons=true&count_private=true&theme=tokyonight" />
   <img alt="Top Langs" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harusys&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harusys&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
