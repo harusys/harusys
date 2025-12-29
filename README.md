@@ -2,11 +2,11 @@
 
 #### 👋 Hi there
 
-I'm Haru, a Backend Engineer from Japan 🇯🇵
+I'm Haru, a Software Engineer from Japan 🇯🇵
 
-- 💻 Working on Backend Engineer / Data Scientist / DevOps Engineer.
-- 🔭 Currently working as a Backend Engineer at [ZOZO](https://corp.zozo.com/en/).
-- 💬 Ask me about Go, Kubernetes, CI/CD.
+- 💻 Working on Backend Engineer.
+- 🔭 Currently working as a Backend Engineer at [Upsider](https://corp.up-sider.com/).
+- 💬 Ask me about Go, Kubernetes, Microservices, CI/CD.
 - ❤️ Love for coding and learning new technologies.
 
 #### 🛠️ Languages and Tools
@@ -24,13 +24,4 @@ I'm Haru, a Backend Engineer from Japan 🇯🇵
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</p>
-
-</details>
-
-#### 📈 GitHub Stats
-
-<p align="left">
-  <img alt="GitHub stats" height="125px" src="https://github-readme-stats.vercel.app/api?username=harusys&show_icons=true&count_private=true&theme=tokyonight" />
-  <img alt="Top Langs" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harusys&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
 </p>
