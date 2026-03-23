@@ -2,7 +2,7 @@
 
 #### 👋 Hi there
 
-I'm Haru, a Software Engineer from Japan 🇯🇵
+I'm Haruki, a Software Engineer from Japan 🇯🇵
 
 - 💻 Working on Backend Engineer.
 - 🔭 Currently working as a Backend Engineer at [Upsider](https://corp.up-sider.com/).
